@@ -3,6 +3,6 @@ EBSボリュームのスナップショット作成
 
 （参考サイト）
 
-* EC2のスナップショットを自動的にAWS Lambdaで作成する
- * http://qiita.com/eiroh/items/66bb68d12bd8fdbbd076
+- EC2のスナップショットを自動的にAWS Lambdaで作成する
+  -  http://qiita.com/eiroh/items/66bb68d12bd8fdbbd076
 
